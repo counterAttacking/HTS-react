@@ -30,5 +30,11 @@ module.exports = {
         'import/extensions': 'off',
         '@typescript-eslint/no-floating-promises': 'off',
         '@typescript-eslint/no-inferrable-types': 'off',
+        'import/no-duplicates': 'off',
+        'import/no-extraneous-dependencies': 'off',
+        '@typescript-eslint/no-unsafe-member-access': 'off',
+        '@typescript-eslint/no-unsafe-return': 'off',
+        '@typescript-eslint/no-unsafe-assignment': 'off',
+        '@typescript-eslint/explicit-module-boundary-types': 'off',
     },
 };
